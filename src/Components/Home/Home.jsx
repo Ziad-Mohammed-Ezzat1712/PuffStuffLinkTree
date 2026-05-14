@@ -63,7 +63,7 @@ export default function Home() {
     },
       {
       id: 5,
-      name: "Every Cloud Vape - El Mohandseen",
+      name: "Every Cloud Vape - Lebanon Square",
        links: {
         facebook: "https://www.facebook.com/profile.php?id=100087559839001",
          instagram: "https://www.instagram.com/puffstuffnasrcity/",

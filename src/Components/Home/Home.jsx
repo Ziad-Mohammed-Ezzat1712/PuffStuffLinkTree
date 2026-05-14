@@ -121,16 +121,16 @@ export default function Home() {
         location:"https://maps.app.goo.gl/UtumUPJxSB8sRN5P9"
       },
     },
-    //   {
-    //   id: 11,
-    //   name: "Mega Vape Store - 15May",
-    //    links: {
-    //     facebook: "https://www.facebook.com/Megaavapestore",
-    //      instagram: "https://www.instagram.com/puffstuffnasrcity/",
-    //     phone: "tel:+201000132334",
-    //     location:"https://maps.app.goo.gl/JA3oxZm71hLJw5tp7"
-    //   },
-    // },
+      {
+      id: 11,
+      name: "Suez Vape - El Kornish Suez",
+       links: {
+        facebook: "https://www.facebook.com/SuezvapeKornish",
+         instagram: "https://www.instagram.com/puffstuffnasrcity/",
+        phone: "tel:+201022294973",
+        location:"https://maps.app.goo.gl/5ttnD4xZQCjLau738"
+      },
+    },
     
 
     // كمل لحد 11 فرع

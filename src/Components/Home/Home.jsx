@@ -35,7 +35,7 @@ export default function Home() {
       name: "Puff Stuff - El Rehab",
      links: {
         facebook: "https://www.facebook.com/PuffStuffRehab",
-         instagram: "https://www.instagram.com/puffstuffnasrcity/",
+         instagram: "https://www.instagram.com/puffmartmaadi/",
         phone: "tel:+201022294578",
         location:" https://maps.app.goo.gl/yS1eMWJEXSGb2DCh9?g_st=aw"
       },
@@ -46,7 +46,7 @@ export default function Home() {
       name: "Andrea Smoking - El Mohandseen",
        links: {
         facebook: "https://www.facebook.com/andreasmokinghouse",
-         instagram: "https://www.instagram.com/puffstuffnasrcity/",
+         instagram: "https://www.instagram.com/andreasmokingcairo/",
         phone: "tel:+201022298960",
         location:" https://maps.app.goo.gl/KDtNHu8wj8LqBr1x6"
       },
@@ -56,7 +56,7 @@ export default function Home() {
       name: "Puff Mart - Dokki",
        links: {
         facebook: "https://www.facebook.com/PuffMartDokki",
-         instagram: "https://www.instagram.com/puffstuffnasrcity/",
+         instagram: "https://www.instagram.com/puffmartdokki/",
         phone: "tel:+201012915524",
         location:" https://maps.app.goo.gl/DjkicheFPC6pfzWZ6?g_st=aw"
       },
@@ -66,7 +66,7 @@ export default function Home() {
       name: "Every Cloud Vape - Lebanon Square",
        links: {
         facebook: "https://www.facebook.com/profile.php?id=100087559839001",
-         instagram: "https://www.instagram.com/puffstuffnasrcity/",
+         instagram: "https://www.instagram.com/everycloudstore/",
         phone: "tel:+201022294138",
         location:"https://maps.app.goo.gl/4VNeEerpeCq3kohv6"
       },
@@ -76,7 +76,7 @@ export default function Home() {
       name: "Hellwan Vape Store - Hellwan",
        links: {
         facebook: "https://www.facebook.com/HellwanVapeStore",
-         instagram: "https://www.instagram.com/puffstuffnasrcity/",
+         instagram: "https://www.instagram.com/hellwanvapestore?igsh=dGxmczhmNDNsY2x6",
         phone: "tel:+201001831117",
         location:"https://maps.app.goo.gl/1pb79Z8N84YhjGhq6"
       },
@@ -86,7 +86,7 @@ export default function Home() {
       name: "Mega Vape Store - 15May",
        links: {
         facebook: "https://www.facebook.com/Megaavapestore",
-         instagram: "https://www.instagram.com/puffstuffnasrcity/",
+         instagram: "https://www.instagram.com/megavapestores?igsh=MXE1eXlzanp0MjY4cg==",
         phone: "tel:+201000132334",
         location:"https://maps.app.goo.gl/JA3oxZm71hLJw5tp7"
       },
@@ -96,7 +96,7 @@ export default function Home() {
       name: "Suez Vape - El Salam Suez ",
        links: {
         facebook: "https://www.facebook.com/SuezvapeSalam",
-         instagram: "https://www.instagram.com/puffstuffnasrcity/",
+         instagram: "https://www.instagram.com/suezvapesalam/",
         phone: "tel:+201022298609",
         location:" https://maps.app.goo.gl/tSXttkYxEhsco5aU8?g_st=aw"
       },
@@ -106,7 +106,7 @@ export default function Home() {
       name: "Puff Mart - El Mallaha Suez",
        links: {
         facebook: "https://www.facebook.com/PuffMartMallaha",
-         instagram: "https://www.instagram.com/puffstuffnasrcity/",
+         instagram: "https://www.instagram.com/puffmartmallaha?igsh=cXI5dDMzMXFpOWJj",
         phone: "tel:+201122607650",
         location:"https://maps.app.goo.gl/bbXdejJdUpMohRgE8?g_st=aw"
       },
@@ -116,7 +116,7 @@ export default function Home() {
       name: "Puff Mart - El Shohadaa Suez",
        links: {
         facebook: "https://www.facebook.com/PuffMartShohadaa",
-         instagram: "https://www.instagram.com/puffstuffnasrcity/",
+         instagram: "https://www.instagram.com/puffmartshohadaa/",
         phone: "tel:+201030990029",
         location:"https://maps.app.goo.gl/UtumUPJxSB8sRN5P9"
       },
@@ -126,7 +126,7 @@ export default function Home() {
       name: "Suez Vape - El Kornish Suez",
        links: {
         facebook: "https://www.facebook.com/SuezvapeKornish",
-         instagram: "https://www.instagram.com/puffstuffnasrcity/",
+         instagram: "https://www.instagram.com/suezvapekornish/",
         phone: "tel:+201022294973",
         location:"https://maps.app.goo.gl/5ttnD4xZQCjLau738"
       },
@@ -211,7 +211,7 @@ export default function Home() {
                 <a
                   href={branch.links.location}
                   target="_blank"
-                  className="flex items-center justify-center gap-3 bg-gradient-to-r from-green-600 via-emerald-700 to-blue-800 py-3 rounded-lg hover:scale-105 transition"
+                  className="flex items-center justify-center gap-3   bg-gradient-to-r from-green-600 via-emerald-700 to-blue-800 py-3 rounded-lg hover:scale-105 transition"
                 >
                   <FaLocationArrow size={20} />
                   location
